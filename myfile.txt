@@ -1,2 +1,4 @@
 add 설명을 추가
 commit의 설명 추가
+pull 설명을 추가
+
